@@ -1,0 +1,18 @@
+.container {
+        background-color: black;
+}
+
+. imagenCabecera {
+    
+        width: 50%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      
+}
+p .destacado {
+         font-size: 20px;
+}
+.dropdown-menu li {background-color: black;
+    text-decoration-color: white;
+}
